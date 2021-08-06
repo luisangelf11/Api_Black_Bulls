@@ -1,0 +1,79 @@
+{
+    "Black-bulls":[
+        {
+            "id": 1,
+            "name": "Yami Sukehiro",
+            "photo": "https://64.media.tumblr.com/9bff8c3411f9dd49d44369ef2ceeb99d/tumblr_pqjxt4MLE11t34tad_640.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Natch Faust",
+            "photo": "https://lanetaneta.com/wp-content/uploads/2021/03/Black-Clover-finalmente-presenta-a-Nacht-al-anime.jpeg"
+        },
+        {
+            "id": 3,
+            "name": "Finral Roulacase",
+            "photo": "https://pbs.twimg.com/media/EQIGXbDXUAMvyWq.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Gordon Agrippa",
+            "photo": "https://i.pinimg.com/originals/72/9f/cc/729fcc49096f11f3f1d812ae1ff30109.png"
+        },
+        {
+            "id": 5,
+            "name": "Zora Ideale",
+            "photo": "https://steamuserimages-a.akamaihd.net/ugc/785233987052650168/6FFE718F2ABB8D73458F3214CF56471498BBCB5A/?imw=512&&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"
+        },
+        {
+            "id": 6,
+            "name": "Gauche Adlai",
+            "photo": "https://i.pinimg.com/736x/29/24/b0/2924b08738bd3c51a32f9c6129e6e149.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Charmy Pappitson",
+            "photo": "https://laverdadnoticias.com/__export/1601319937460/sites/laverdad/img/2020/09/28/charmy_blck_clover.jpg_554688468.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Vanessa Enoteca",
+            "photo": "https://i.pinimg.com/originals/15/c5/bf/15c5bf36edfeeb2a15edcaaaae9d1c75.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Henry Legolant",
+            "photo": "https://www.anime-planet.com/images/characters/140751.jpg?t=1564668947"
+        },
+        {
+            "id": 10,
+            "name": "Grey",
+            "photo": "https://i.pinimg.com/originals/80/df/c4/80dfc49440102b334b77d3e769d39cd3.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Magna Swing",
+            "photo": "https://i.pinimg.com/236x/b3/0f/7c/b30f7c690295b9ec4f8b10feaadc27b9.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Luck Voltia",
+            "photo": "https://laverdadnoticias.com/__export/1613070772913/sites/laverdad/img/2021/02/11/black_clover_luck_voltia_ceranos.jpg_423682103.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Noelle Silva",
+            "photo": "https://laverdadnoticias.com/__export/1600379666300/sites/laverdad/img/2020/09/17/black_clover_cosplayer_ensena_a_fanaticos_como_hacer_la_noelle_perfecta.jpg_10413643.jpg"
+        },
+        {
+            "id": 14,
+            "name": "Asta",
+            "photo": "https://ae01.alicdn.com/kf/H06039156c6f444a2bf505dff538c7d6av/Diadema-de-tr-bol-negro-de-Anime-para-Cosplay-con-Logo-de-emperador-diadema-para-cabeza.jpg_q50.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Secre Swallowtail",
+            "photo": "https://i.redd.it/ziduyl9r65661.jpg"
+        }
+    ]
+}
